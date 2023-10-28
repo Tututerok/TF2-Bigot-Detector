@@ -4,7 +4,7 @@ Useful for Twitch streamers alike and people/otherkins who don't want to be a wi
 # Support our work
 To be updated!
 # Credits
-Tututerok
+To be updated!
 # Legal
 VALVe, the VALVe logo, Steam, the Steam logo, Team Fortress, the Team Fortress logo are trademarks and/or registered trademarks of VALVe Corporation in the U.S. and/or other countries.
 
