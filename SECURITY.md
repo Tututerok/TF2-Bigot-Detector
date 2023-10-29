@@ -8,7 +8,7 @@
 
 ## Reporting a Vulnerability
 
-If you find a security vulnerability in the TF2 Bigot Detector Preventer app, execution of TF2 Bigot Detector Preventer,
+If you find a security vulnerability in the TF2 Bigot Detector-Preventer app, execution of TF2 Bigot Detector-Preventer,
 or something else, contact Tututerok through email directly: [Tututerok@protonmail.com](mailto:Tututerok@protonmail.com).
 
 If you have a solution for the issue, attach it as a patch file to the email.
