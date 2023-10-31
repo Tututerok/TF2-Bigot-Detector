@@ -5,6 +5,18 @@ Useful for Twitch streamers alike and people/otherkins who don't want to be a wi
 ✊🏻✊🏼✊🏽✊🏾✊🏿🏳️‍⚧️🏳️‍🌈
 
 **Please note the actual code is  ```private``` for now.**
+# Features
+    [*]Easy-to-install
+    [*]Light-weighted
+    [*]No lists required
+    [*]Does not interfere with VAC in any way
+    [*]A future README.txt with clear instructions
+    [*]You can actually safely stream with voice/text chat on
+    [*]Supports most popular languages (contributors needed!)
+    [*]Possible to add your desired words to not being represented in (voice) chat
+    [*]Constantly being updated and includes words that official VALVe tool doesn't
+    [*]Prevents even most complex text bypasses, effectively leaving Steam filtering in the trash bin where it belongs
+    [*]Settings to whether or not clear players off the muted list, after specific events and/or desired amount of time, in addition
 # Support our work
 To be updated!
 # Credits
